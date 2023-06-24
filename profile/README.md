@@ -1,21 +1,21 @@
 ## Hello there 👋
 
-We are a project created with the objective of teaching about programming in a simple and easy way and even contribute to open-source community. In fact, we've been doing this since **October 6, 2022**. That's when we created our first Discord bot, the first draft of our dear **Nagini** 🐍. Since then we've spreaded across the internet, creating our own [subreddit](https://www.reddit.com/r/anticodingcodingclub/) where we share our interest with the whole world and also our [YouTube](https://www.youtube.com/@anticodingcodingclub) channel, which was probably your first contact with us.
+Somos um projeto criado com o objetivo de ensinar programação de forma simples e fácil, e ainda contribuir para a comunidade open-source. Na verdade, estamos fazendo isso desde **6 de outubro de 2022**. Foi quando criamos nosso primeiro bot para o Discord, o primeiro rascunho da nossa querida **Nagini** 🐍. Desde então nos espalhamos pela internet, criando nosso próprio [subreddit](https://www.reddit.com/r/anticodingcodingclub/) onde compartilhamos nosso interesse com o mundo inteiro e também nosso canal no [YouTube](https://www.youtube.com/@anticodingcodingclub), onde provavelmente você nos conheceu.
 
-### 🍿 An interconnected community
+### 🍿 Uma comunidade interconectada
 
-The open source community is the 💗 heart of Anti Coding Coding Club and fundamental to how we share knowledge today. That said our members:
+A comunidade de código aberto é o 💗 coração do Anti Coding Coding Club e fundamental para a forma como compartilhamos conhecimento hoje. Dito isso, nossos membros:
 
-- Always seek to contribute to open-source community;
-- Seek the best concepts of technologies to produce amazing tutorials;
+- Sempre procuram contribuir para a comunidade open-source;
+- Buscam os melhores conceitos de tecnologias para produzir tutoriais incríveis;
 
-Now that we are talking about the important things ☝️, are you contributing to open-source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. There is how we started our [journey](https://opensource.guide/).
+Agora que estamos falando sobre as coisas importantes ☝️, você está contribuindo para o código aberto? Sim? Ok, você arrasa 🎸! Se não, podemos te ajudar a começar! O software de código aberto é feito por pessoas como você. Foi assim que começamos nossa [jornada](https://opensource.guide/).
 
-### 👻 Contributing to the ecosystem
+### 👻 Contribuindo para o ecossistema
 
-All our projects are open to contribute, don't know how? It's easy:
+Todos os nossos projetos estão abertos para contribuir, não sabe como? É fácil:
 
-- Check the project **Issues**;
-- Read the project **Contributing Guidelines**;
-- Follow the **Documentation** to setup our projects on your machine;
-- Make your changes and **just PR**;
+- Verifique as **Issues**;
+- Leia as **Contributing Guidelines** dos projetos;
+- Siga a **Documentation** para configurar nossos projetos em sua máquina;
+- Faça suas alterações e **envie um PR**;
